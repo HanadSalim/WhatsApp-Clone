@@ -7,4 +7,4 @@
 5. ContextApi (global states)
 6. useEffect to do something on & after component is rendered
 7. Update firebase using selected room with messages entered
-8. ** Google Auth **
+8. ** Google Auth ** Seems to be broken will be FIXED soon
