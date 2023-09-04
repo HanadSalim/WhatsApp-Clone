@@ -8,3 +8,6 @@
 6. useEffect to do something on & after component is rendered
 7. Update firebase using selected room with messages entered
 8. ** Google Auth ** Seems to be broken will be FIXED soon
+9. Sign in and sign up works use
+10. USERNAME: user1234@hotmail.com
+11. PASSWORD: user1234
