@@ -11,3 +11,4 @@
 9. Sign in and sign up works use
 10. USERNAME: user1234@hotmail.com
 11. PASSWORD: user1234
+12. Type in search bar to create new chat
